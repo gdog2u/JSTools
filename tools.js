@@ -2,7 +2,7 @@
  * @author Bee Hudson
  * Each line in this file is an individual tool that can be used
  *   as a bookmark in chrome. Simply prepend the line with `javascript: `
- * 	 and paste it in the url section.
+ *   and paste it in the url section.
  * Each line is also *roughly* minified. Please don't hate me for my choices.
  */
 
